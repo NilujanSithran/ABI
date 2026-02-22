@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SL_TD_Zones_2025.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>SL_TD_Zones_2025</name>
+		<open>1</open>
+		<Placemark>
+			<name>Sigiriya</name>
+			<description>Sigiriya</description>
+			<LookAt>
+				<longitude>80.76164459592644</longitude>
+				<latitude>7.945561587522707</latitude>
+				<altitude>0</altitude>
+				<heading>1.367762654054223e-08</heading>
+				<tilt>0</tilt>
+				<range>9451.557625179625</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.76164459592644,7.945561587522708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bentota</name>
+			<description>Galle</description>
+			<LookAt>
+				<longitude>80.00245501718985</longitude>
+				<latitude>6.418760395264512</latitude>
+				<altitude>0</altitude>
+				<heading>1.921728708842431e-09</heading>
+				<tilt>0</tilt>
+				<range>9148.476452739103</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>80.00245501718983,6.418760395264512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ella</name>
+			<description>Badulla</description>
+			<LookAt>
+				<longitude>81.04908183955531</longitude>
+				<latitude>6.873122110012316</latitude>
+				<altitude>0</altitude>
+				<heading>-1.021540549473385e-07</heading>
+				<tilt>0</tilt>
+				<range>4770.768157306299</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>81.0490818395553,6.873122110012317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pasikuda</name>
+			<description>Batticaloa</description>
+			<LookAt>
+				<longitude>81.56512537568339</longitude>
+				<latitude>7.922819700860217</latitude>
+				<altitude>0</altitude>
+				<heading>-1.508635126016202e-08</heading>
+				<tilt>0</tilt>
+				<range>4622.045729448469</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>81.56512537568339,7.922819700860217,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>
